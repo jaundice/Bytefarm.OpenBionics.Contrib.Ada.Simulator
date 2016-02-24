@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Simulator.Lib", "Bytefarm.OpenBionics.Contrib.Ada.Simulator.Lib\Ada.Simulator.Lib.csproj", "{DB9A2634-164B-49F0-A520-5B00E075DFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Simulator.Proxy", "Bytefarm.OpenBionics.Contrib.Ada.Simulator.Proxy\Ada.Simulator.Proxy.csproj", "{4A613628-812A-4671-97EE-01985B22A70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Simulator.Common", "Ada.Simulator.Common\Ada.Simulator.Common.csproj", "{C367CFE5-66EC-4C14-B0D3-53015CE97109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ada.Simulator.Mock", "Ada.Simulator.Mock\Ada.Simulator.Mock.csproj", "{FC5392B8-F407-4AF3-B9FD-74EB684B53C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9A2634-164B-49F0-A520-5B00E075DFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9A2634-164B-49F0-A520-5B00E075DFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9A2634-164B-49F0-A520-5B00E075DFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9A2634-164B-49F0-A520-5B00E075DFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A613628-812A-4671-97EE-01985B22A70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A613628-812A-4671-97EE-01985B22A70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A613628-812A-4671-97EE-01985B22A70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A613628-812A-4671-97EE-01985B22A70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C367CFE5-66EC-4C14-B0D3-53015CE97109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C367CFE5-66EC-4C14-B0D3-53015CE97109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C367CFE5-66EC-4C14-B0D3-53015CE97109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C367CFE5-66EC-4C14-B0D3-53015CE97109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5392B8-F407-4AF3-B9FD-74EB684B53C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5392B8-F407-4AF3-B9FD-74EB684B53C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5392B8-F407-4AF3-B9FD-74EB684B53C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5392B8-F407-4AF3-B9FD-74EB684B53C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

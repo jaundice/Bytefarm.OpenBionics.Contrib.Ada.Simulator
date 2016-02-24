@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: bc275dbe7dc65ac40af8190b1a8bf214
+timeCreated: 1455396899
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0th_Thumb
+    100002: 0th_thumb_distal
+    100004: 0th_thumb_proximal
+    100006: 1st_finger
+    100008: 1st_finger_distal
+    100010: 1st_finger_proximal
+    100012: 2nd_finger
+    100014: 2nd_finger_distal
+    100016: 2nd_finger_proximal
+    100018: 3rd_finger
+    100020: 3rd_finger_distal
+    100022: 3rd_finger_proximal
+    100024: 4th_finger
+    100026: 4th_finger_distal
+    100028: 4th_finger_proximal
+    100030: 5th_Palm
+    100032: //RootNode
+    100034: Armature
+    100036: Dorsal_cover
+    100038: Palm
+    100040: PCB_bracket
+    100042: PCBs_-_Almond_v1_2
+    100044: PQ12s_extended
+    400000: 0th_Thumb
+    400002: 0th_thumb_distal
+    400004: 0th_thumb_proximal
+    400006: 1st_finger
+    400008: 1st_finger_distal
+    400010: 1st_finger_proximal
+    400012: 2nd_finger
+    400014: 2nd_finger_distal
+    400016: 2nd_finger_proximal
+    400018: 3rd_finger
+    400020: 3rd_finger_distal
+    400022: 3rd_finger_proximal
+    400024: 4th_finger
+    400026: 4th_finger_distal
+    400028: 4th_finger_proximal
+    400030: 5th_Palm
+    400032: //RootNode
+    400034: Armature
+    400036: Dorsal_cover
+    400038: Palm
+    400040: PCB_bracket
+    400042: PCBs_-_Almond_v1_2
+    400044: PQ12s_extended
+    2300000: Dorsal_cover
+    2300002: PCB_bracket
+    2300004: PCBs_-_Almond_v1_2
+    2300006: PQ12s_extended
+    3300000: Dorsal_cover
+    3300002: PCB_bracket
+    3300004: PCBs_-_Almond_v1_2
+    3300006: PQ12s_extended
+    4300000: PCB_bracket
+    4300002: 5th_Palm
+    4300004: 1st_finger
+    4300006: 2nd_finger
+    4300008: 3rd_finger
+    4300010: 4th_finger
+    4300012: 0th_Thumb
+    4300014: PCBs_-_Almond_v1_2
+    4300016: PQ12s_extended
+    4300018: Dorsal_cover
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: 0th_Thumb
+    13700002: 1st_finger
+    13700004: 2nd_finger
+    13700006: 3rd_finger
+    13700008: 4th_finger
+    13700010: 5th_Palm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Palm
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
